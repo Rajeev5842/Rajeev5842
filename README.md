@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Rajeev Dangwal</h1>
 <h3 align="center">Passionate MERN Stack Developer from India</h3>
 
-<img align="right" src="mario.gif" alt="Profile Image" width="250" height="250" />
+<img align="right" src="mario.gif" alt="Profile Image" width="230" height="230" />
 
 <p align="center">
   <img src="https://github.com/yourusername/yourrepository/blob/main/gitprofile.gif" alt="Coding GIF" width="400" />
