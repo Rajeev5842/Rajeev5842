@@ -42,8 +42,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="yourusername" /></p>
 
-<h3 align="left">Projects:</h3>
+### Projects:
 
-- [Project 1](https://link-to-project-1) - Description of project 1.
-- [Project 2](https://link-to-project-2) - Description of project 2.
-- [Project 3](https://link-to-project-3) - Description of project 3.
+- **XCrypto**  
+  XCrypto is a responsive web application built using React and Chakra UI. It leverages the CoinGecko API to fetch real-time information about various cryptocurrencies, providing users with up-to-date data on market prices, trends, and more.
+  <a href="https://react-crypto-app-lovat-three.vercel.app/" target="_blank">View Project</a>
+  
+
+
+
+
+
