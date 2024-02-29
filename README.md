@@ -4,7 +4,7 @@
 <img align="right" src="mario.gif" alt="Profile Image" width="200" height="200" />
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/gitprofile.gif&show_icons=true&locale=en" alt="Rajeev-Profile-Picture" width="400" />
+  <img src="https://github.com/yourusername/yourrepository/blob/main/gitprofile.gif" alt="Coding gif" width="400" />
 </p>
 
 - 🌱 I’m currently learning **Next.js**
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="YOUR_SASS_LOGO_URL_HERE" alt="sass" width="40" height="40"/>
+  <img src="sass.jpeg" alt="sass" width="60" height="40"/>
 
  
   <img src="https://ejs.co/favicon.svg" alt="ejs" width="40" height="40"/>
@@ -40,7 +40,7 @@
   <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842" alt="Rajeev5842" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="Rajeev5842" /></p>
 
 ### Projects:
 
