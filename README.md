@@ -44,9 +44,20 @@
 
 ### Projects:
 
-- **XCrypto**  
-  XCrypto is a responsive web application built using React and Chakra UI. It leverages the CoinGecko API to fetch real-time information about various cryptocurrencies, providing users with up-to-date data on market prices, trends, and more.
+- **XCrypto : Reactjs | ChakraUI**
+  
+  - XCrypto is a responsive web application built using React and Chakra UI. It leverages the CoinGecko API to fetch real-time information about various cryptocurrencies, providing users with up-to-date data on market prices, trends, and more.
   <a href="https://react-crypto-app-lovat-three.vercel.app/" target="_blank">View Project</a>
+
+- **Todo List : React |Sass | Nodejs | Express.js | Mongodb | JWT**
+
+  - The **MERN Todo List** app is a full-stack web application built using MongoDB, Express.js, React, and Node.js. It allows users to securely create, manage, and organize their tasks. With JWT authentication, users can log in, authenticate, and access their todo lists securely. The app features real-time updates and a responsive design for a seamless user experience.
+    <a href="https://github.com/Rajeev5842/nodejs_todoapp">View Project</a>
+
+- **Video-Hub : React|ChakraUi**
+
+   - Video-Hub is a React-based web application built with Chakra UI, offering users access to curated video content. Featuring an intuitive dashboard, users can upload and manage their own videos seamlessly. Explore, upload, and engage with rich video content effortlessly on Video-Hub.
+     <a href="videoapp-flax.vercel.app">View Project</a>
   
 
 
