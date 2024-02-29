@@ -4,7 +4,7 @@
 <img align="right" src="mario.gif" alt="Profile Image" width="200" height="200" />
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/gitprofile.gif" alt="Coding GIF" width="400" />
+  <img src="https://github.com/yourusername/yourrepository/blob/main/gitprofile.gif&show_icons=true&locale=en" alt="Rajeev-Profile-Picture" width="400" />
 </p>
 
 - 🌱 I’m currently learning **Next.js**
@@ -40,7 +40,7 @@
   <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842" alt="Rajeev5842" /></p>
 
 ### Projects:
 
