@@ -57,7 +57,7 @@
 - **Video-Hub : React|ChakraUi**
 
    - Video-Hub is a React-based web application built with Chakra UI, offering users access to curated video content. Featuring an intuitive dashboard, users can upload and manage their own videos seamlessly. Explore, upload, and engage with rich video content effortlessly on Video-Hub.
-     <a href="videoapp-flax.vercel.app">View Project</a>
+     <a href="https://videoapp-flax.vercel.app/">View Project</a>
   
 
 
