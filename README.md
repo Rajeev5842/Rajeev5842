@@ -41,7 +41,7 @@
 
   <!-- New additions -->
   <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40"/>
-  <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal.svg" alt="postman" width="40" height="40"/>
+  <img src="postman.png" alt="postman" width="40" height="40"/>
 
 </p>
 
