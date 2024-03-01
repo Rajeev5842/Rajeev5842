@@ -38,7 +38,13 @@
   <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
   <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/>
+
+  <!-- New additions -->
+  <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40"/>
+  <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal.svg" alt="postman" width="40" height="40"/>
+
 </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="Rajeev5842" /></p>
 
