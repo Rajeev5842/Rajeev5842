@@ -31,19 +31,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="sass.jpeg" alt="sass" width="60" height="40"/>
-
- 
+  
   <img src="https://ejs.co/favicon.svg" alt="ejs" width="40" height="40"/>
   <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/>
   <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
   <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/>
-
+  
   <!-- New additions -->
   <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40"/>
   <img src="postman.png" alt="postman" width="40" height="40"/>
-
+  
+  <!-- Additional tools -->
+  <img src="vercel.jpeg" alt="vercel" width="40" height="40"/>
+  <img src="canva.png" alt="canva" width="40" height="40"/>
+  <img src="figma.png" alt="figma" width="40" height="40"/>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="Rajeev5842" /></p>
