@@ -48,29 +48,26 @@
   <img src="figma.png" alt="figma" width="40" height="40"/>
 </p>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev5842&show_icons=true&locale=en" alt="Rajeev5842" /></p>
 
 ### Projects:
+
+- **Portfolio : React | Tailwind CSS | Framer Motion**
+  
+  - A personal portfolio website built using **React, Tailwind CSS, and Framer Motion**. This portfolio showcases my skills, projects, and experience with smooth animations and a modern responsive design.
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">View Project</a>
+
+- **Todofy : MERN Todo List App**
+  
+  - Todofy is a full-stack MERN (MongoDB, Express.js, React, Node.js) To-Do application that allows users to create, edit, and manage their daily tasks efficiently. It features authentication using JWT, real-time updates, and a user-friendly interface for a seamless task management experience.
+  <a href="https://github.com/Rajeev5842/todofy" target="_blank">View Project</a>
 
 - **XCrypto : Reactjs | ChakraUI | CoinGeko Api**
   
   - XCrypto is a responsive web application built using React and Chakra UI. It leverages the CoinGecko API to fetch real-time information about various cryptocurrencies, providing users with up-to-date data on market prices, trends, and more.
   <a href="https://react-crypto-app-lovat-three.vercel.app/" target="_blank">View Project</a>
 
-- **Todo List : React |Sass | Nodejs | Express.js | Mongodb | JWT**
-
-  - The **MERN Todo List** app is a full-stack web application built using MongoDB, Express.js, React, and Node.js. It allows users to securely create, manage, and organize their tasks. With JWT authentication, users can log in, authenticate, and access their todo lists securely. The app features real-time updates and a responsive design for a seamless user experience.
-    <a href="https://github.com/Rajeev5842/nodejs_todoapp">View Project</a>
-
 - **Video-Hub : React|ChakraUi**
 
    - Video-Hub is a React-based web application built with Chakra UI, offering users access to curated video content. Featuring an intuitive dashboard, users can upload and manage their own videos seamlessly. Explore, upload, and engage with rich video content effortlessly on Video-Hub.
-     <a href="https://videoapp-flax.vercel.app/">View Project</a>
-  
-
-
-
-
-
+     <a href="https://videoapp-flax.vercel.app/" target="_blank">View Project</a>
