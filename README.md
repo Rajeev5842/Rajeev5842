@@ -68,3 +68,16 @@
   
   - XCrypto is a responsive web application built using React and Chakra UI. It leverages the CoinGecko API to fetch real-time information about various cryptocurrencies, providing users with up-to-date data on market prices, trends, and more.
   <a href="https://react-crypto-app-lovat-three.vercel.app/" target="_blank">View Project</a>
+
+
+### 📢 Available for Freelance Projects
+
+I am open to collaboration and freelance projects! If you need a **dynamic, responsive, and engaging web application**, feel free to reach out. Let's build something amazing together! 🚀
+
+### 🌟 Keep Learning, Keep Building
+
+Passionate about coding, always eager to learn new technologies, and dedicated to crafting high-quality web applications. Let's innovate and grow together! 💡✨
+
+### ❤️ Code, Create, Inspire
+
+Coding isn't just about writing lines of code; it's about **creating experiences, solving problems, and inspiring others**. Let's keep pushing boundaries and making the web a better place!
