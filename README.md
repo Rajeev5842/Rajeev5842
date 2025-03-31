@@ -55,7 +55,7 @@
 - **Portfolio : React | Tailwind CSS | Framer Motion**
   
   - A personal portfolio website built using **React, Tailwind CSS, and Framer Motion**. This portfolio showcases my skills, projects, and experience with smooth animations and a modern responsive design.
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">View Project</a>
+  <a href="https://rdportfolio-olive.vercel.app/" target="_blank">View Project</a>
 
 - **Todofy : MERN Todo List App**
   
