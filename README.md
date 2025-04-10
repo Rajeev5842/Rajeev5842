@@ -45,9 +45,10 @@
   <img src="figma.png" alt="figma" width="40" height="40"/>
 </p>
 
-<!-- Updated GitHub Languages Chart -->
+<!-- Better Most Used Languages Chart -->
+<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev5842&layout=compact&theme=default" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev5842&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" />
 </p>
 
 ### Projects:
